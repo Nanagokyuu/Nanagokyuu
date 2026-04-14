@@ -9,16 +9,17 @@
 
 🕹️ 游戏：最近经常在玩空洞骑士丝之歌，同时喜欢玩极限竞速地平线，对于 RPG 和 FPS 也不是不玩，但是优先级不高，偶尔会玩一些 Galgame 和 AVG，准备之后入手 Switch  
 
-📱 iOS 开发：有空的时候会搞搞一些 iOS 上的软件开发，目前以开源为主，暂时不打算商业化，处女作是《扫雷26》（问就是蹭 iOS 26 的名字，主要突出视觉效果）：[App Store 页面](https://apps.apple.com/cn/app/%E6%89%AB%E9%9B%B726/id6757836780)、[GitHub 页面](https://github.com/Nanagokyuu/Minesweeper)  
+📱 软件开发：有空的时候会搞搞一些 iOS/macOS 上的软件开发，目前以开源为主，暂时不打算商业化，处女作是《扫雷26》（问就是蹭 iOS 26 的名字，主要突出视觉效果）：[App Store 页面](https://apps.apple.com/cn/app/%E6%89%AB%E9%9B%B726/id6757836780)、[GitHub 页面](https://github.com/Nanagokyuu/Minesweeper)  
 ## 杂谈  
 个人有多个名义，Nanagokyuu、Shichigoku、Gyhry、Hanasaki Shion等  
 其中 Nanagokyuu 和 Shichigoku 均为日语“759”的罗马音，即我的生日 2007.5.9  
 Gyhry 是小学时乱敲的，经过简单优化后的产物，现在不怎么用了  
 Hanasaki Shion（花咲紫苑）充当日语名用，取自个人OC Hanasaki Reine（花咲澪音）  
 
-图灵派，目前头发越肩，喜欢哥特洛丽塔风格 [照片](https://www.bilibili.com/opus/1163325908288798756?spm_id_from=333.1387.0.0)  
+图灵派，目前头发越肩，侧马尾为主，喜欢哥特洛丽塔风格 [照片](https://www.bilibili.com/opus/1163325908288798756?spm_id_from=333.1387.0.0)  
 
 虽然比较像二次元，但更多是混同人插画圈子的，对于新番和二游并不是很感兴趣  
 #### 联系方式
 ✉️ Email：wangyifengsw@outlook.com  
-（其余就不写了，需要的话给我发邮件，我不是很喜欢社交）
+𝕏 X：@nanagokyuu
+（其余就不写了，需要的话给我发邮件或私信，我不是很喜欢社交）
