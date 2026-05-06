@@ -1,25 +1,24 @@
 # 个人简介  
 这里是Nanagokyuu，一个普通的计算机科学专业的大学生  
 ## 兴趣  
-🙌 DIY：曾经混过图吧，擅长装一些搞笑的电脑，自用的电脑也挺搞笑的，同时喜欢看一些架构设计和 Die Shot之类的  
+🙌 DIY：挺喜欢折腾组装机的，经常搭配出一些头重脚轻吕布骑狗的配置，实用性不重要，好玩才是最关键的，毕竟最优解千篇一律，但不均衡的才是百花齐放对吧  
 
-🎵 音乐：喜欢 Drum'n'Bass，子流派也一样喜欢，或者说喜欢所有用过 2-Step 采样和 Amen Break 采样的风格，同时也喜欢 Trance，最近也在听 Vocaloid  
+🎵 音乐：喜欢 Drum'n'Bass，主要是是 Liquid Funk、Neurofunk 之类的，当然其他的也不排斥，还是相当杂食的，不是很经常听，所以不是很喜欢流媒体的订阅制，一般都是自己买实体专或数字专，尤其是 CD 拿在手上的感觉确实是数字版比不了的  
 
-🎶 音游：是个打音游的，移动端主要玩 Arcaea，PTT 13.00+，其他音游也有涉猎，算是什么都玩点，街机主要玩 CHUNITHM 和 maimai。另外我经常发手元，在 Bilibili 上：[个人主页](https://space.bilibili.com/488196059?spm_id_from=333.1007.0.0)  
+🕹️ 游戏：是个打音游的，移动端主要玩 Arcaea，PTT 13.00+，其他音游也有涉猎，算是什么都玩点，街机主要玩 CHUNITHM 和 maimai。另外我经常发手元，在 Bilibili 上：[个人主页](https://space.bilibili.com/488196059?spm_id_from=333.1007.0.0) ，至于其他的游戏的话，玩的其实也不算多，2077、地平线4、丝之歌之类的还是我比较喜欢的类型，对于二游的话就没什么耐心了，我也是不太喜欢以内购抽卡为核心的游戏，就像我不喜欢流媒体音乐一样    
 
-🕹️ 游戏：最近经常在玩空洞骑士丝之歌，同时喜欢玩极限竞速地平线，对于 RPG 和 FPS 也不是不玩，但是优先级不高，偶尔会玩一些 Galgame 和 AVG，准备之后入手 Switch  
-
-📱 软件开发：有空的时候会搞搞一些 iOS/macOS 上的软件开发，目前以开源为主，暂时不打算商业化，处女作是《扫雷26》（问就是蹭 iOS 26 的名字，主要突出视觉效果）：[App Store 页面](https://apps.apple.com/cn/app/%E6%89%AB%E9%9B%B726/id6757836780)、[GitHub 页面](https://github.com/Nanagokyuu/Minesweeper)  
+📱 软件开发：偶尔会搞搞一些 iOS/macOS 上的软件开发，目前做的软件都会开源的，暂时不打算商业化：[App Store 页面](https://apps.apple.com/cn/app/%E6%89%AB%E9%9B%B726/id6757836780)、[GitHub 页面](https://github.com/Nanagokyuu/Minesweeper)  
 ## 杂谈  
 个人有多个名义，Nanagokyuu、Shichigoku、Gyhry、Hanasaki Shion等  
 其中 Nanagokyuu 和 Shichigoku 均为日语“759”的罗马音，即我的生日 2007.5.9  
-Gyhry 是小学时乱敲的，经过简单优化后的产物，现在不怎么用了  
+Gyhry 是小学时起的，目前基本上不用了，也没什么含义，单纯就是几个字母的排列组合  
 Hanasaki Shion（花咲紫苑）充当日语名用，取自个人OC Hanasaki Reine（花咲澪音）  
 
-图灵派，目前头发越肩，侧马尾为主，喜欢哥特洛丽塔风格 [照片](https://www.bilibili.com/opus/1163325908288798756?spm_id_from=333.1387.0.0)  
+个人比较喜欢地雷系服饰，虽然可能有点烂大街了吧但我确实是喜欢这种风格，自己也会经常穿的
 
-虽然比较像二次元，但更多是混同人插画圈子的，对于新番和二游并不是很感兴趣  
+虽然比较像二次元，但更多是混同人插画圈子的，对于新番并不是很感兴趣  
 #### 联系方式
 ✉️ Email：wangyifengsw@outlook.com  
 𝕏 X：@nanagokyuu
-（其余就不写了，需要的话给我发邮件或私信，我不是很喜欢社交）
+🐧 QQ：577866846
+（其余就不写了，想了解更多的话给我发邮件或私信就OK了）
