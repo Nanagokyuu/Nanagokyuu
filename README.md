@@ -18,7 +18,7 @@ Hanasaki Shion（花咲紫苑）充当日语名用，取自个人OC
 
 虽然比较像二次元，但更多是混同人插画圈子的，对于新番并不是很感兴趣  
 #### 联系方式
-✉️ Email：nanagokyuu759@outlook.com  
+✉️ Email：wangyifengsw@gmail.com
 𝕏 X：@nanagokyuu
 🐧 QQ：577866846
 （其余就不写了，想了解更多的话给我发邮件或私信就OK了）
